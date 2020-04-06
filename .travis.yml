@@ -8,4 +8,4 @@ script:
  -coverage run factorial_p.py
 
 after_success:
--codecov
+ -codecov
